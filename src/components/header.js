@@ -38,8 +38,7 @@ class Header extends React.Component {
           <Link to="/workshops">Workshop</Link>
           <Link to="/buy"><button>Buy</button></Link>
         </div>
-    Header
-      </div >
+      </div>
     )
   }
 }
